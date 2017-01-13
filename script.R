@@ -6,5 +6,6 @@ Run analysis
 
 Save table with bold header
 
-Save small figure, thick line
+Save small figure, thick red line
+
 this is the 6th line of text
