@@ -6,5 +6,5 @@ Run analysis
 
 Save table
 
-Save small figure
+Save small figure, red line
 this is the 6th line of text
